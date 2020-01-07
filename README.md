@@ -1,5 +1,5 @@
 # hello-world
 completing tutorial
 
-Hi,there!
+Hi there!
 Hope to have some fun with programming :)
